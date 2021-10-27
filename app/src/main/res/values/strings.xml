@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Project-Rxjava-retrofit-mark0.0</string>
+    <string name="foo">Race: %s</string>
+</resources>

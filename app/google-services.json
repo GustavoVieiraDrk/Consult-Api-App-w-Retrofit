@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801995406602",
+    "project_id": "login-screen-vago",
+    "storage_bucket": "login-screen-vago.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801995406602:android:57a5482ec2eeea4da2cef3",
+        "android_client_info": {
+          "package_name": "com.gustavo.project_rxjava_retrofit_mark00"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801995406602-s8in8sc76504jmeb93kfcnm3n5ofafnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzc_u2fusX75iBTo7v5TeEebtYwnqgQ-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801995406602-s8in8sc76504jmeb93kfcnm3n5ofafnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
